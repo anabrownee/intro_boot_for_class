@@ -1,0 +1,52 @@
+/*#super-container{
+    width: 980px;
+    margin:auto;
+}*/
+
+#logo{
+    width:190px;
+    margin-top: -13px;
+}
+
+.image{
+    
+    margin-top: 80px;
+}
+
+#zone1{
+    margin-top: 40px;
+   
+     background-image: url(../img/cv/ps3.png);
+     height: 150px;
+    width: 150px;
+    background-repeat: no-repeat;
+}
+.image-responsive{
+    width: 100%;
+}
+#zone1 a {
+    width: 150px;
+    height: 150px;
+    
+}
+
+#zone1:hover{
+    background-image: url(../img/cv/ps.png);
+    background-repeat: no-repeat;
+	
+}
+
+#zone1bis{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    display: none;
+}
+#zone1bis a{
+    color: #1a918f;
+}
+#zone2{
+    
+    margin-top: 40px;
+   
+}
